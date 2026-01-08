@@ -40,31 +40,31 @@ The objective of this project is to design a **comprehensive BI solution** that 
 
 ### 🏠 Homepage
 Centralized navigation to all dashboards and executive view.  
-![Homepage Screenshot](homepage.png)
+![Homepage Screenshot](screenshots/homepage.png)
 
 ### 💰 Finance View
 KPIs: Net Sales, Gross Margin %, Profit & Loss, COGS trends.  
-![Finance View Screenshot](finance.png)
+![Finance View Screenshot](screenshots/finance.png)
 
 ### 📈 Sales View
 KPIs: Revenue trends, top products, top customers, regional performance.  
-![Sales View Screenshot](sales.png)
+![Sales View Screenshot](screenshots/sales.png)
 
 ### 📢 Marketing View
 KPIs: Campaign ROI, customer acquisition, retention metrics.  
-![Marketing View Screenshot](marketing.png)
+![Marketing View Screenshot](screenshots/marketing.png)
 
 ### 🚚 Supply Chain View
 KPIs: Inventory levels, lead times, vendor performance, stock-outs.  
-![Supply Chain View Screenshot](supplychain.png)
+![Supply Chain View Screenshot](screenshots/supplychain.png)
 
 ### 👔 Executive View
 One-page summary of all critical KPIs for top management.  
-![Executive View Screenshot](executive.png)
+![Executive View Screenshot](screenshots/executive.png)
 
 ### 🗂️ Data Model 
 Comprehensive star & snowflake schema integrating fact and dimension tables from MySQL, Excel, and CSV sources. 
-![Data Model Screenshot](datamodel.png)
+![Data Model Screenshot](screenshots/datamodel.png)
 
 ---
 
